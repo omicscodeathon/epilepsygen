@@ -12,9 +12,13 @@ Identify novel candidate genes associated with epilepsy.
 
 ## Team
 Modibo K. Goita - MSc. Bioinformatics
-2
-3
-4
-.
-.
+
+Nicholas Donkor - 
+
+Samuel Ndegwa - 
+
+Lassana Coulibaly - 
+
+Diana Karan - 
+
 Awe Olaitan - African Society for Bioinformatics and Computational Biology, South Africa
