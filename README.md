@@ -21,4 +21,6 @@ Lassana Coulibaly -
 
 Diana Karan - 
 
+Pius Kwesi Sam - 
+
 Awe Olaitan - African Society for Bioinformatics and Computational Biology, South Africa
