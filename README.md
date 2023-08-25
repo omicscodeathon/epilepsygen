@@ -1,4 +1,4 @@
-# Novel Candidate Genes Identification in Epilepsy Through Integrative Genomic Analysis and Bioinformatics
+# Integrative Transcriptomic Analysis for the Identification of Novel Epilepsy Candidate Genes
 
 ## Background
 Epilepsy is a chronic neurological disorder characterized by recurrent seizures, that affects millions of individuals worldwide. Despite significant advancements in our understanding of epilepsy pathophysiology, the underlying genetic factors contributing to its development and progression remain incompletely elucidated. Genetic studies have revealed a complex interplay of various genes and molecular pathways, emphasizing the need for comprehensive and integrative approaches to identify novel candidate genes that contribute to epileptogenesis.
