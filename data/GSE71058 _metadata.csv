@@ -1,0 +1,23 @@
+Sample_id,Run,Diagnosis,gender,Sample Name,source_name
+dukeepi1513rep2,SRR2106309,mTLE_HS,male,GSM1826292,dentate granule cells
+dukeepi1513rep3,SRR2106310,mTLE_HS,male,GSM1826293,dentate granule cells
+dukeepi1930rep3,SRR2106312,mTLE_HS,female,GSM1826295,dentate granule cells
+dukeepi1930rep2,SRR2106311,mTLE_HS,female,GSM1826294,dentate granule cells
+dukeepi3169rep2,SRR2106313,mTLE,male,GSM1826296,dentate granule cells
+dukeepi3169rep3,SRR2106314,mTLE,male,GSM1826297,dentate granule cells
+dukeepi3949rep2,SRR2106315,mTLE_HS,female,GSM1826298,dentate granule cells
+dukeepi3949rep3,SRR2106316,mTLE_HS,female,GSM1826299,dentate granule cells
+dukeepi4000rep2,SRR2106318,mTLE,male,GSM1826300,dentate granule cells
+dukeepi4000rep3,SRR2106320,mTLE,male,GSM1826301,dentate granule cells
+dukeepi1046cap2,SRR2106321,mTLE_HS,female,GSM1826302,dentate granule cells
+dukeepi2213cap1,SRR2106317,mTLE,male,GSM1826303,dentate granule cells
+dukeepi2213cap2,SRR2106319,mTLE,male,GSM1826304,dentate granule cells
+dukeepi2638cap1,SRR2106322,mTLE_HS,male,GSM1826305,dentate granule cells
+dukeepi2953cap1,SRR2106323,mTLE,female,GSM1826306,dentate granule cells
+dukeepi2953cap2,SRR2106324,mTLE,female,GSM1826307,dentate granule cells
+dukeepi1895rep1,SRR2143509,mTLE,female,GSM1826308,dentate granule cells
+dukeepi1895rep2,SRR2143510,mTLE,female,GSM1826309,dentate granule cells
+dukeepi2948rep1,SRR2143511,mTLE,male,GSM1826310,dentate granule cells
+dukeepi2948rep2,SRR2143512,mTLE,male,GSM1826311,dentate granule cells
+dukeepi3956rep1,SRR2143513,mTLE,female,GSM1826312,dentate granule cells
+dukeepi3956rep2,SRR2143514,mTLE,female,GSM1826313,dentate granule cells

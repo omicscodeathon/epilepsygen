@@ -1,0 +1,37 @@
+Run,CONDITION,Individual,Organism,Sample Name,source_name,Tissue
+SRR9733947,mTLE,patient 1,Homo sapiens,GSM3963731,Brain,Neocortex
+SRR9733948,mTLE,patient 1,Homo sapiens,GSM3963732,Brain,Hippocampus
+SRR9733949,mTLE,patient 2,Homo sapiens,GSM3963733,Brain,Neocortex
+SRR9733950,mTLE,patient 2,Homo sapiens,GSM3963734,Brain,Hippocampus
+SRR9733951,mTLE,patient 3,Homo sapiens,GSM3963735,Brain,Neocortex
+SRR9733952,mTLE,patient 3,Homo sapiens,GSM3963736,Brain,Hippocampus
+SRR9733953,mTLE,patient 4,Homo sapiens,GSM3963737,Brain,Neocortex
+SRR9733954,mTLE,patient 4,Homo sapiens,GSM3963738,Brain,Hippocampus
+SRR9733955,mTLE,patient 5,Homo sapiens,GSM3963739,Brain,Neocortex
+SRR9733956,mTLE,patient 5,Homo sapiens,GSM3963740,Brain,Hippocampus
+SRR9733957,mTLE,patient 6,Homo sapiens,GSM3963741,Brain,Neocortex
+SRR9733958,mTLE,patient 6,Homo sapiens,GSM3963742,Brain,Hippocampus
+SRR9733959,mTLE,patient 7,Homo sapiens,GSM3963743,Brain,Neocortex
+SRR9733960,mTLE,patient 7,Homo sapiens,GSM3963744,Brain,Hippocampus
+SRR9733961,mTLE,patient 8,Homo sapiens,GSM3963745,Brain,Neocortex
+SRR9733962,mTLE,patient 8,Homo sapiens,GSM3963746,Brain,Hippocampus
+SRR9733963,mTLE,patient 9,Homo sapiens,GSM3963747,Brain,Neocortex
+SRR9733964,mTLE,patient 9,Homo sapiens,GSM3963748,Brain,Hippocampus
+SRR9733965,mTLE,patient 10,Homo sapiens,GSM3963749,Brain,Neocortex
+SRR9733966,mTLE,patient 10,Homo sapiens,GSM3963750,Brain,Hippocampus
+SRR9733967,mTLE,patient 11,Homo sapiens,GSM3963751,Brain,Neocortex
+SRR9733968,mTLE,patient 11,Homo sapiens,GSM3963752,Brain,Hippocampus
+SRR9733969,mTLE,patient 12,Homo sapiens,GSM3963753,Brain,Neocortex
+SRR9733970,mTLE,patient 12,Homo sapiens,GSM3963754,Brain,Hippocampus
+SRR9733971,mTLE,patient 13,Homo sapiens,GSM3963755,Brain,Neocortex
+SRR9733972,mTLE,patient 13,Homo sapiens,GSM3963756,Brain,Hippocampus
+SRR9733973,mTLE,patient 14,Homo sapiens,GSM3963757,Brain,Neocortex
+SRR9733974,mTLE,patient 14,Homo sapiens,GSM3963758,Brain,Hippocampus
+SRR9733975,mTLE,patient 15,Homo sapiens,GSM3963759,Brain,Neocortex
+SRR9733976,mTLE,patient 15,Homo sapiens,GSM3963760,Brain,Hippocampus
+SRR9733977,mTLE,patient 16,Homo sapiens,GSM3963761,Brain,Neocortex
+SRR9733978,mTLE,patient 16,Homo sapiens,GSM3963762,Brain,Hippocampus
+SRR9733979,mTLE,patient 17,Homo sapiens,GSM3963763,Brain,Neocortex
+SRR9733980,mTLE,patient 17,Homo sapiens,GSM3963764,Brain,Hippocampus
+SRR9733981,ctrl,control patient without epilepsy,Homo sapiens,GSM3963765,Brain,Neocortex
+SRR9733982,ctrl,control patient without epilepsy,Homo sapiens,GSM3963766,Brain,Neocortex

@@ -1,0 +1,69 @@
+Run,Sample_Type,Fraction,Organism,Sample Name,Tissue
+SRR16522641,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643898,Cortex
+SRR16522642,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643899,Cortex
+SRR16522643,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643900,Cortex
+SRR16522644,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643901,Cortex
+SRR16522645,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643902,Cortex
+SRR16522646,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643903,Cortex
+SRR16522647,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643904,Cortex
+SRR16522648,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643905,Cortex
+SRR16522649,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643906,Cortex
+SRR16522650,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643907,Cortex
+SRR16522651,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643908,Cortex
+SRR16522652,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643909,Cortex
+SRR16522653,mTLE+HS,Cytoplasm,Homo sapiens,GSM5643910,Cortex
+SRR16522654,mTLE+HS,Cytoplasm,Homo sapiens,GSM5643911,Cortex
+SRR16522655,mTLE+HS,Cytoplasm,Homo sapiens,GSM5643912,Cortex
+SRR16522656,mTLE+HS,Cytoplasm,Homo sapiens,GSM5643913,Cortex
+SRR16522657,mTLE+HS,Cytoplasm,Homo sapiens,GSM5643914,Cortex
+SRR16522658,mTLE+HS,Cytoplasm,Homo sapiens,GSM5643915,Cortex
+SRR16522659,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643916,Cortex
+SRR16522660,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643917,Cortex
+SRR16522661,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643918,Cortex
+SRR16522662,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643919,Cortex
+SRR16522663,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643920,Cortex
+SRR16522664,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643921,Cortex
+SRR16522665,Postmortem controls,Nucleus,Homo sapiens,GSM5643922,Cortex
+SRR16522666,Postmortem controls,Nucleus,Homo sapiens,GSM5643923,Cortex
+SRR16522667,Postmortem controls,Nucleus,Homo sapiens,GSM5643924,Cortex
+SRR16522668,Postmortem controls,Nucleus,Homo sapiens,GSM5643925,Cortex
+SRR16522669,Postmortem controls,Nucleus,Homo sapiens,GSM5643926,Cortex
+SRR16522670,Postmortem controls,Nucleus,Homo sapiens,GSM5643927,Cortex
+SRR16522671,mTLE non-HS,Nucleus,Homo sapiens,GSM5643928,Cortex
+SRR16522672,mTLE non-HS,Nucleus,Homo sapiens,GSM5643929,Cortex
+SRR16522673,mTLE non-HS,Nucleus,Homo sapiens,GSM5643930,Cortex
+SRR16522674,mTLE non-HS,Nucleus,Homo sapiens,GSM5643931,Cortex
+SRR16522675,mTLE non-HS,Nucleus,Homo sapiens,GSM5643932,Cortex
+SRR16522676,mTLE non-HS,Nucleus,Homo sapiens,GSM5643933,Cortex
+SRR16522677,mTLE+HS,Nucleus,Homo sapiens,GSM5643934,Cortex
+SRR16522678,mTLE+HS,Nucleus,Homo sapiens,GSM5643935,Cortex
+SRR16522679,mTLE+HS,Nucleus,Homo sapiens,GSM5643936,Cortex
+SRR16522680,mTLE+HS,Nucleus,Homo sapiens,GSM5643937,Cortex
+SRR16522681,mTLE+HS,Nucleus,Homo sapiens,GSM5643938,Cortex
+SRR16522682,mTLE+HS,Nucleus,Homo sapiens,GSM5643939,Cortex
+SRR16522683,mTLE non-HS,Nucleus,Homo sapiens,GSM5643940,Cortex
+SRR16522684,mTLE non-HS,Nucleus,Homo sapiens,GSM5643941,Cortex
+SRR16522685,mTLE non-HS,Nucleus,Homo sapiens,GSM5643942,Cortex
+SRR16522686,mTLE non-HS,Nucleus,Homo sapiens,GSM5643943,Cortex
+SRR16522687,mTLE non-HS,Nucleus,Homo sapiens,GSM5643944,Cortex
+SRR16522688,mTLE non-HS,Nucleus,Homo sapiens,GSM5643945,Cortex
+SRR16522689,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643946,Hippocampus
+SRR16522690,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643947,Hippocampus
+SRR16522691,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643948,Hippocampus
+SRR16522692,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643949,Hippocampus
+SRR16522693,Postmortem controls,Cytoplasm,Homo sapiens,GSM5643950,Hippocampus
+SRR16522694,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643951,Hippocampus
+SRR16522695,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643952,Hippocampus
+SRR16522696,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643953,Hippocampus
+SRR16522697,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643954,Hippocampus
+SRR16522698,mTLE non-HS,Cytoplasm,Homo sapiens,GSM5643955,Hippocampus
+SRR16522699,Postmortem controls,Nucleus,Homo sapiens,GSM5643956,Hippocampus
+SRR16522700,Postmortem controls,Nucleus,Homo sapiens,GSM5643957,Hippocampus
+SRR16522701,Postmortem controls,Nucleus,Homo sapiens,GSM5643958,Hippocampus
+SRR16522702,Postmortem controls,Nucleus,Homo sapiens,GSM5643959,Hippocampus
+SRR16522703,Postmortem controls,Nucleus,Homo sapiens,GSM5643960,Hippocampus
+SRR16522704,mTLE non-HS,Nucleus,Homo sapiens,GSM5643961,Hippocampus
+SRR16522705,mTLE non-HS,Nucleus,Homo sapiens,GSM5643962,Hippocampus
+SRR16522706,mTLE non-HS,Nucleus,Homo sapiens,GSM5643963,Hippocampus
+SRR16522707,mTLE non-HS,Nucleus,Homo sapiens,GSM5643964,Hippocampus
+SRR16522708,mTLE non-HS,Nucleus,Homo sapiens,GSM5643965,Hippocampus

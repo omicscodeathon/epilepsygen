@@ -1,0 +1,17 @@
+Run,seizure_group,baseline_seizure_frequency,Cell_type,disease,Organism,Sample Name
+SRR22254654,low,2,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725539
+SRR22254655,high,4,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725538
+SRR22254656,low,1,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725537
+SRR22254657,low,2,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725536
+SRR22254658,low,2,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725535
+SRR22254659,high,60,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725534
+SRR22254660,low,2,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725533
+SRR22254661,high,4,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725532
+SRR22254662,low,1,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725531
+SRR22254663,low,1,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725530
+SRR22254664,high,4,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725529
+SRR22254665,low,0.33,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725528
+SRR22254666,low,1,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725527
+SRR22254667,low,0.25,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725526
+SRR22254668,low,0.25,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725525
+SRR22254669,high,3,leukocyte,temporal lobe epilepsy,Homo sapiens,GSM6725524
