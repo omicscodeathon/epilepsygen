@@ -8,7 +8,7 @@ The advent of high-throughput genomics technologies has revolutionized our abili
 Identify novel candidate genes associated with epilepsy.
 
 ## Workflow
-![image](https://github.com/omicscodeathon/epilepsygen/blob/main/figures/Methodology.png?raw=true)
+![image](https://github.com/omicscodeathon/epilepsygen/blob/main/figures/Methods.jepg?raw=true)
 
 ## Team
 Modibo K. Goita - MSc. Bioinformatics
