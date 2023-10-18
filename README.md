@@ -14,9 +14,12 @@ Identify novel candidate genes associated with epilepsy using integrative transc
 ## Workflow
 ![image](https://github.com/omicscodeathon/epilepsygen/blob/main/figures/Methods.jpeg?raw=true)
 ## Results
+### Gene set enrichment analysis
 ![image](https://github.com/omicscodeathon/epilepsygen/blob/main/figures/GO_plot.jpg)
 
-![image]()
+### Protein-Protein interaction network
+![image](https://github.com/omicscodeathon/epilepsygen/blob/main/figures/Protein%20protein%20interation.png)
+
 ## Team
 1. [Modibo K. Goita](https://github.com/mkgoita) - Team-lead
 
