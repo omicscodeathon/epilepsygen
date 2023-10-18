@@ -46,7 +46,7 @@ Identify novel candidate genes associated with epilepsy using integrative transc
 ## Team
 1. [Modibo K. Goita](https://github.com/mkgoita) - Team-lead
 
-1. Nicholas Donkor - Co-lead
+1. [Nicholas Donkor](https://github.com/Nick-Donkor) - Co-lead
 2. Diana Karan - Writer (Manuscript)
 3. Lassana Coulibaly - Member
 4. Pius Kwesi Sam - Member
